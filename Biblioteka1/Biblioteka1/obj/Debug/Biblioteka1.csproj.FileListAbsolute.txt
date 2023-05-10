@@ -1,0 +1,7 @@
+C:\Users\Raša\source\repos\Biblioteka1\Biblioteka1\bin\Debug\Biblioteka1.exe.config
+C:\Users\Raša\source\repos\Biblioteka1\Biblioteka1\bin\Debug\Biblioteka1.exe
+C:\Users\Raša\source\repos\Biblioteka1\Biblioteka1\bin\Debug\Biblioteka1.pdb
+C:\Users\Raša\source\repos\Biblioteka1\Biblioteka1\obj\Debug\Biblioteka1.csproj.AssemblyReference.cache
+C:\Users\Raša\source\repos\Biblioteka1\Biblioteka1\obj\Debug\Biblioteka1.csproj.CoreCompileInputs.cache
+C:\Users\Raša\source\repos\Biblioteka1\Biblioteka1\obj\Debug\Biblioteka1.exe
+C:\Users\Raša\source\repos\Biblioteka1\Biblioteka1\obj\Debug\Biblioteka1.pdb
